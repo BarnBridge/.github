@@ -12,9 +12,7 @@
 **Discontinued Products**
 - [Smart Yield V1](https://github.com/BarnBridge/BarnBridge-SmartYieldBonds)
 - [Smart Alpha](https://github.com/BarnBridge/SmartAlpha)
-- [Smart Exposure](https://github.com/BarnBridge/BarnBridge-SmartExposure)
 
 **Other Resources**
 - [Documentation](https://docs.barnbridge.com/)
 - [Audits and Disclosures](https://github.com/BarnBridge/security)
-- [Addresses and ABIs](https://github.com/BarnBridge/changelog)
